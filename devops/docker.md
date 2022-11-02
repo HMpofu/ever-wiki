@@ -7,4 +7,5 @@ And you may open the web service in your browser at `localhost:8080` to see it r
 
 To stop the container with SIGTERM `docker stop web`
 
-To stop the container with SIGKILL`docker kill web`
+To stop the container with SIGKILL`docker kill web` 
+Changed by Mr. H. Mpofu
